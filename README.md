@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Hetairos AI](screenshots/hetairos-1.png)
+![Hetairos AI](screenshots/banner.png)
 
 **Your AI Waifu Assistant with Voice and Animated Interactions**
 
